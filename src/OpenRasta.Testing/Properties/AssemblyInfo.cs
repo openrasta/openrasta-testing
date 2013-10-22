@@ -8,10 +8,19 @@
  */
 #endregion
 
+using System;
 using System.Reflection;
+using System.Runtime.InteropServices;
 
 [assembly: AssemblyTitle("OpenRasta testing framework")]
 [assembly: AssemblyDescription("Provides shared testing functionality for OpenRasta test suite.")]
+[assembly: AssemblyVersion("2.0.4.0")]
+[assembly: AssemblyFileVersion("2.0.4.0")]
+[assembly: AssemblyCompany("Caffeine IT- naughtyProd Limited ")]
+[assembly: AssemblyProduct("OpenRasta 2.0 Release Candidate")]
+[assembly: AssemblyCopyright("Copyright (c) Caffeine IT - naughtyProd Limited - Sebastien Lambla ")]
+[assembly: ComVisible(false)]
+[assembly: CLSCompliant(false)]
 
 #region Full license
 //
