@@ -12,7 +12,6 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Collections.Specialized;
 using NUnit.Framework;
-using NUnit.Framework.SyntaxHelpers;
 
 namespace Rasta.Testing
 {
